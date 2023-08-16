@@ -1,0 +1,9 @@
+{
+    "github.copilot.advanced": {
+        "languages": [{
+            "id": "javascript",
+            "extensions": [ ".js", ".html" ],
+            "aliases": [ "html5", "javascript" ]
+        }]
+    }
+}
